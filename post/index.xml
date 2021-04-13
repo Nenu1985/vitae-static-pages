@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sun, 11 Apr 2021 19:50:12 +0300</lastBuildDate>
+		<lastBuildDate>Tue, 13 Apr 2021 20:49:48 +0300</lastBuildDate>
 		
 		<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Aws</title>
+			<link>http://example.org/post/aws/</link>
+			<pubDate>Tue, 13 Apr 2021 20:49:48 +0300</pubDate>
+			
+			<guid>http://example.org/post/aws/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
 		<item>
 			<title>Wsl</title>
 			<link>http://example.org/post/wsl/</link>
